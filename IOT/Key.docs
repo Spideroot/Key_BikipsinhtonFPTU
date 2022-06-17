@@ -1,0 +1,283 @@
+
+_______ Describe IoT architecture	Application, Decision Support Tools, Big Data Stores, Network and Telecommunication Equipment, Connected devices
+Closed-loop Systems use feedback where a portion of the output signal is fed back to the input to reduce errors and improve stability.	True
+Which requires data stream management?	IoT
+Which category is used for business to consumer process?
+	Industrial IoT
+The Internet of Things will result in new innovative applications and services led by today’s technology, and this will be in the mind of the beholder on how to leverage this?	True
+Which possibility is highest contributor to cost overhead for manufacturing facilities?	Energy management and resource optimization
+When you have a potential IoT idea you want to develop properly, what must you first define?	Problem it sets out to solve
+Voice recognition software and virtual assistant programs offer for ________ and _________	Communication and Entertainment
+What is an example of cloud computing?	A service that offers on-demand access to shared resources.
+
+In _________ the embedded devices and objects working under IoT are resource constrained.	Information system
+Data sharing is a ___________ topic in today's society?	Prominent
+Which category finds an increase in applications targeting health and fitness?	Personal IoT
+Managing of resources can be done by implementing ________	Protocols and algorithms
+Big Data is not a part of IoT.	False
+What type of networks is interacting under IoT?	Heterogeneous only
+What are the descriptors for Big Data? (as coined by IBM)	Volume, Velocity, Variety, Veracity
+
+IoT is a paradigm that involves ubiquitous presence in the environment.	True
+Without ___________ IoT devices can easily lead to catastrophe.	Management system
+
+Internet of Things represents only software integration or only internet not Hardware integration _______.	 False
+Which challenge comes under IoT devices, reliable bidirectional signaling	Signaling
+Internet of Things represents only software integration or only internet not Hardware integration…	False
+The IoT operates at ___________ scale	Machine
+Which of the following issues are considered in IoT?	All issues
+________ will enable the humans to access, control and manage the operation.	IoT
+Which of the following disruptions - caused by vehicles becoming fully autonomous - were the people surveyed most worried about?	Reduced number of driving jobs.
+What are the three dominant technological forces which are accelerating the Internet of Things?	Data, Cloud, Engagement
+
+How can IoT help combat climate change?	Smart devices working to reduce energy use.
+Which of the following functions does NOT apply to a typical data centre's services?	Data generation
+Which possibility connects the production line to suppliers?
+	Connected supply chain
+Which category is used in the context of connected cars?
+	Group IoT
+Voice telephony is an efficient means of __________ with machines that can listen.	Bi-directional voice communication
+
+A system must include _______.	an input, an output and a process.
+
+Fritzing is open source, free software.	True
+
+Smart City, and Smart Energy Management Systems are the part of Internet of Things.	True
+Big Data is not a part of IoT.	False
+What is Fog computing?	It is a type of computing where services are hosted where they are used, such as at the network edge or with end devices.
+
+Which challenge comes under securing the information?	Security
+
+IIoT stands for __________	Industrial Internet of Things
+_________ is particularly appealing when the human’s hands or eye are otherwise occupied	Voice recognition
+
+Resource management will elaborate the key aspects of _________	Network management
+
+The proliferation of low-cost smaller mobile devices is an example of a _____________ for the Internet of Things?	Driver
+What IoT collects?	Machine generated data
+Which challenge comes when we use many devices on the same network?	Power consumption
+Which category could be used by citizens to contribute to a smart city?	Community IoT
+Which terminology deals with the excitation or stimulus applied to a system from an external source, for the generation of an output?	Input signal
+Smart cities use the Internet of Things to improve the quality of citizens' lives. True or False?	True
+Is it useful completing a business plan for a personal or in-house IoT product?	Yes
+
+This is used to include outside libraries in your sketch. This gives the programmer access to a large group of standard C libraries (groups of pre-made functions), and also libraries written especially for Arduino.	#include
+Which of the following is one of the ways IoT monitoring of dairy cows improves dairy farming?	The system notices the cows that are unwell, so they are treated quicker, which speeds up recovery time.
+What is used to uniquely identify devices connected to the Internet?
+	IP address
+
+
+
+What does the 'things' in Internet of Things refer to?	A physical object with embedded electronics
+
+This is an unsigned data type that occupies 1 byte of memory. Same as the byte datatype. It encodes numbers from 0 to 255.	unsigned char
+
+Which category could be used by citizens to contribute to a smart city?	Community IoT
+Which of the following issues are considered in IoT?	All of the other.
+Does IOT gateway provide security for the network?	True
+How many analog pins on an Arduino Uno board?	6
+What is the decimal representation of the binary number 0b10010100?	148
+What is used to uniquely identify devices connected to the Internet?	IP address
+A function is a series of programming statements that can be called by name. Which command is called once when the program starts	setup()
+
+__________ layer is the communication layer that connects the IoT devices with WAN.	Network layer
+
+How many bits are there in a byte?	8
+Which characteristics involve the facility the thing to respond in an intelligent way to a particular situation?	 Intelligence
+How does fog computing reduce security risks?	 It acts on IoT data closer to the source
+
+Which of the following is NOT a security measure?	Firmware
+
+Resource management will elaborate the key aspects of _________.	Network management
+_______ will reduces the cost of the devices.
+	Voice Integration
+Bluetooth uses low power radio waves in the frequency range of __________?	2.4 - 2.485GHz
+The ________ keyword is used only in function declarations. It indicates that the function is expected to return no information to the function from which it was called.	void
+_______ provide the means to create capability that reflects true awareness of the physical world and people	Sensors
+What are the three dominant technological forces which are accelerating the Internet of Things?	Data, Cloud, Engagement
+What IoT collects?	Machine generated data
+What is the main advantage of IPv6, and why does it suit IoT?
+	IPv6 provides many more IP addresses, which increases the potential number of hosts and amount of data.
+
+In telecommunications, RS-232 is used for _______ communication transmission of data.	serial
+Which terminology deals with the excitation or stimulus applied to a system from an external source, for the generation of an output?	Input signal
+A DC motor requires a current of 10 Amperes to operate at full speed. The battery attached supplies 12 Volts. What resistance is required in the circuit to provide exactly 10 A to the motor?	1.2 ohms
+The combination of conditioning plus the element being controlled by the computer is called a _________ ?	Actuator
+Which of the following is the future application of IoT?	Role of green IoT system
+_______ in IoT as one of the key characteristics, devices have different hardware platforms and networks.	Heterogeneity
+Fill in the blank: System _________ can be a major problem, especially in badly designed closed-loop systems, as they may try to over-correct any errors which could cause the system to lose control and oscillate.	stability
+
+The resistance of a heater coil is 10 Ohms and the input voltage is 120V. What is the current?	12 amps
+What sort of actuator would you use to control the movement of a conveyor belt?	An AC motor
+What is another way of thinking of the DTE?	As a Computer
+When current flows through a resistor, the power involved produces heat. What measures can be taken to reduce the generation of heat inside a computer?	Reduce the voltage from the power supply.
+
+A vacuum cleaner has a maximum power consumption of 1000 W and is powered by 240 Volts. What is the current used?	4.17 amps
+The combination of a transducer with its signal conditioner is called a __________?	Sensor
+
+The object of IoT will be empowered by ___________	Devices
+
+If the voltage on an ADC pin is 2.2V, what would the reported ADC value be? Assume a 10-bit ADC on a 5V system.	451
+What does design provides?	Technology and ecosystem
+Future application of IoT through phones includes viewing data and controlling sensors anywhere.	True
+
+Is there any limit for connecting devices though voice?	True
+Sometimes many devices share the same set of wires. This connection mode is referred to as a ________?	Bus
+
+In IoT world, refrigerator control also a part of IoT.
+	True
+
+In an IoT smart home system, sensors are connected to the home power outlet and are required to process some part of the collected data. What would be the best option to connect sensors to each other, as well as a central location for Internet connection, where high data rate is required?	WiFi
+
+Internet of Things represents only software integration or only internet not Hardware integration _______.	False
+What data security concerns do IoT devices pose?	 Because they are small and low powered, they can't carry much software including security software leaving them open to data theft or disruption
+What was the first recognised IoT device?	ATM
+
+An example of output module is__________.	LED 7-segment
+What is the role of communication protocol in IoT?	Mac layer issue
+Which of the following IS NOT criteria to help select a wired communication protocol?	Distance to the nearest power point
+The pinMode() function configures a pin as either ______.	Input or Output
+
+
+
+If we want to measure the temperature of a solution in a chemical process to within 0.1 degree Celsius, over a range of 100 degrees, our development board would need a ____________ converter to meet that requirement for accuracy	10 bit
+What is the Tinkercad Circuits?	Tinkercad is a free online collection of software tools that help people create and simulation circuits.
+What is the main purpose of the SRF05 sensor?	Ranging sensor
+All of the parts of a complete IoT process need programming. But where in the following IoT process is programming needed for the system to be Internet of Things?	Microcontroller and Cloud
+What sort of actuator would you use to control the movement of a conveyor belt?	An AC motor
+How many analog pins on an Arduino Uno board?
+	6
+
+In the reticulation (water irrigation) system, what type of device is the outdoor camera?	Sensor
+
+What is the size of the flash memory of the Arduino Uno?	32 KB
+
+The object of IoT will be empowered by ___________	Devices
+What is the recommended range of external voltage for Arduino UNO?	7-12 V
+
+What is the role of communication protocol in IoT?	Mac layer issue
+Which of the following is the future application of IoT?	Role of green IoT system
+What is the clock speed of the Arduino Uno?	16 MHz
+
+If we intend to include a servo motor as an actuator, what feature should we include when selecting a microcontroller?	Pulse Width Modulation pin
+_______ either built into smoke alarm and thermostat or in the form of small plug – in.	Microphones
+What is the temperature (in degree Celsius) for LM35 sensor if the analog output is 10 0000 0000 (binary notation)?	25
+Which of the following IS NOT criteria to help select a wired communication protocol?	Distance to the nearest power point
+What is the purpose of the pin named ECHO of HC-SR04 sensor?	Provides the information that the ultrasonic sound wave is returned.
+What is the size of EEPROM of the Arduino UNO?	1 KB
+
+What among the following is an example of external interrupt for the Arduino?	Button
+While taking the input from the user in Arduino, which of these function is used in Sketch?	Serial.available
+Data sharing is a ___________ topic in today's society?
+	 Prominent
+
+In an industrial fan maintenance system, what physical change does Ian Howard say a sensor might detect, measure and transmit data on?	Vibration
+One advantage of a closed loop feedback system is:	Ability to react to disturbances in the system
+When the gate system at the dairy closes one gate and opens another to direct a cow into a particular area, what is (or what are) the actuators in play?	Pneumatic arms on gate mechanism
+
+How many legs does LM35 temperature sensor have?
+	3 legs
+Which function in the Arduino is used to start the serial communication using the COM port?	Serial.begin()
+
+IoT devices are naturally vulnerable to ________ threats.	Security
+Which of these sentences could be a line of programming code?	If temperature is more than 30 degrees C, run fan, else, run heater
+
+What does the AREF pin on the Arduino UNO?	Reference voltage for analog inputs.
+What does PWM stand for?	Pulse Width Modulation
+System _________________ can be a major problem, especially in badly designed closed-loop systems, as they may try to over-correct any errors which could cause the system to lose control and oscillate.	stability
+Smart City, and Smart Energy Management Systems are the part of Internet of Things.	True
+What is the popular method of organizing wireless network topologies?	Cluster
+Which sensor is LM35?	Temperature sensor
+
+What case is called serialEvent() interrupt?	When data comes from the serial port.
+_______ Will reduces the cost of the devices.	Voice Integration
+What pins can the Arduino UNO board communicate with the computer?	UART pins
+________ in IoT as one of the key characteristics, devices have different hardware platforms and networks.	Heterogeneity
+Big Data is not a part of IoT.	False
+Sensors play a big part in the Internet of Things, collecting data from the physical world. There is a long and growing list of sensor types, but some of the more common ones are found in smart phones. Which sensor in your phone collects information on your physical activity for health apps?	Accelerometer
+________ provide the means to create capability that reflects true awareness of the physical world and people.	Sensors
+The proliferation of low-cost smaller mobile devices is an example of a _____________ for the Internet of Things?	Driver
+To activate serial monitor, what setup code is to be written?	Serial.begin(9600);
+How many pair(s) of Rx/Tx pins are present in Arduino Uno for UART communication?	1
+__________ layer is the communication layer that connects the IoT devices with WAN.	Network layer
+
+LM35 provides _______ Volt for each degree count?	0.01
+
+Infrared signals can be used for ______.	(b) short-range communication
+How many PWM pins are present in the Arduino UNO?	6
+The Internet of Things will result in new innovative applications and services LED by today’s technology, and this will be in the mind of the beholder on how to leverage this?	True
+
+
+_______ describe IoT architecture.	a. Application, Decision Support Tools, Big Data Stores, Network and Telecommunication Equipment, Connected devices
+Cloud Computing is a computing platform where people can have access to applications and computer resources, as a service, from anywhere?	a. True
+The Internet of Things will call for new privacy laws?	b. Bi-directional voice communication
+Managing of resources can be done by implementing ________.	d. Protocols and algorithms
+________ is particularly appealing when the human’s hands or eye are otherwise occupied.	a. Voice recognition
+Voice recognition software and virtual assistant programs offer for ________.	b. Communication and Entertainment
+Which category finds an increase in applications targeting health and fitness?	a. Personal IoT
+The collection of data is achieved with ________ changes.	c. Dynamic Nature
+The number of devices that need to be managed and that communicate with each other will be much larger.	d. Enormous Scale
+In a communications network, peers can send messages to:	a. Peers in the same layer only
+
+________ on a cellular network is expensive, especially with many IoT devices.	c. Bandwidth
+The huge numbers of devices connected to the Internet of things have to communicate automatically, not via humans. What is this called?	b. Machine to Machine (M2M)
+
+Bluetooth is named after:	c. Danish King, Harald Gormsson who promoted communication between Denmark and Norway
+
+Which of these media is currently NOT used in communicating data?	b. Hydrogen cables / electron ionisation
+Communication between ________ is encrypted for security.	b. End user and data center
+Communication in a network is carried via a _________?	c. Medium
+Why will IoT put a strain on internet infrastructure?	a. The unprecedented amount of data
+
+Phones act as actuators too.	a. True
+Bluetooth will drain battery life.	a. True
+The combination of a transducer with its signal conditioner is called a __________?	b. Sensor
+
+The combination of conditioning plus the element being controlled by the computer is called a _________ ?	d. Actuator
+
+If you need to increase the current through a resistor in a circuit, what would you do?	b. Increase the voltage applied to the resistor.
+
+A resistor's first three colour bands are brown, black, and red. What is its value?	c. 1000 ohms
+Which digit is represented by a black band on a resistor?	d. 0
+
+Which of these colours is NOT used in the resistor value colour code?	b. turquoise
+Which digit does the colour yellow denote on a resistor colour band?
+	b. 4
+
+This is used to include outside libraries in your sketch. This gives the programmer access to a large group of standard C libraries (groups of pre-made functions), and also libraries written especially for Arduino.	a. #include
+Arduino IDE consists of 2 functions. What are they?	c. Setup() and loop()
+There is efficiency gains from ________ all sorts of equipment.	d. Digitization
+
+A program written with the IDE for Arduino is called _________	b. Sketch
+What is the microcontroller used in Arduino UNO?	a. ATmega328p
+
+Which is the software or a programming language used for controlling of Arduino?	d. Any Language
+What does p refer to in ATmega328p?	b. Pico-Power
+_________ board allows sewn into clothing.
+	c. LilyPad
+Do Arduino provides IDE Environment?	a. True
+
+A resistor's first three colour bands are brown, green and red. What is its value?	a. 1500 ohms
+
+A 47 Kohm resistor would have which colours on its first three bands?	d. yellow, violet, orange
+What is the nominal voltage of 6 AAA batteries connected in parallel?	d. 1.5V
+
+Which colour represents the digit 6 in the resistor colour code?	b. blue
+How does fog computing reduce security risks?	a. It acts on IoT data closer to the source
+
+What data security concerns do IoT devices pose?	b. Because they are small and low powered, they can't carry much software including security software leaving them open to data theft or disruption
+
+Which of the following is NOT a security measure?	d. Firmware
+Does IOT gateway provide security for the network?	a. True
+
+What is the format of IP address?	d. 32 bit
+
+The embedded devices will form _______ network.	d. Ad-hoc
+
+Hardware address is known as _________	a. MAC address
+
+MQTT stands for _____________	d. MQ Telemetry Transport
+MQTT is _________ protocol.	c. Machine to Machine and Internet of Things
+_______ are used to overcome the challenges of managing the resources of the IoT.	d. Cluster, Software agent, and Synchronization techniques
+
+
